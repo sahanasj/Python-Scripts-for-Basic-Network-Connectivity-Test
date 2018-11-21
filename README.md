@@ -37,7 +37,7 @@ $ python server-status-check.py >> output.txt
 ```
 </details>
 
-# Cloud Custodian Important Resources
+# Important Resources
 [Python socket network programming](https://pythontips.com/2013/08/06/python-socket-network-programming/)<br>
 [Default Port Numbers You Need to Know as an Administrator](https://geekflare.com/default-port-numbers/)<br>
 [TCP/IP Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/)<br>
